@@ -1,0 +1,14 @@
+{"event_type": "down", "scan_code": 33, "name": "f", "time": 1709866824.1884298, "is_keypad": false}
+{"event_type": "up", "scan_code": 33, "name": "f", "time": 1709866824.3684044, "is_keypad": false}
+{"event_type": "down", "scan_code": 32, "name": "d", "time": 1709866825.1575437, "is_keypad": false}
+{"event_type": "up", "scan_code": 32, "name": "d", "time": 1709866825.3031695, "is_keypad": false}
+{"event_type": "down", "scan_code": 118, "name": "f24", "time": 1709866867.3407843, "is_keypad": false}
+{"event_type": "up", "scan_code": 118, "name": "f24", "time": 1709866867.5013676, "is_keypad": false}
+{"event_type": "down", "scan_code": 118, "name": "f24", "time": 1709866870.2303941, "is_keypad": false}
+{"event_type": "up", "scan_code": 118, "name": "f24", "time": 1709866870.4166114, "is_keypad": false}
+{"event_type": "down", "scan_code": 110, "name": "f23", "time": 1709866876.1409717, "is_keypad": false}
+{"event_type": "up", "scan_code": 110, "name": "f23", "time": 1709866876.2433696, "is_keypad": false}
+{"event_type": "down", "scan_code": 110, "name": "f23", "time": 1709866876.393354, "is_keypad": false}
+{"event_type": "up", "scan_code": 110, "name": "f23", "time": 1709866876.5099044, "is_keypad": false}
+{"event_type": "down", "scan_code": 29, "name": "ctrl", "time": 1709866894.1513417, "is_keypad": false}
+{"event_type": "down", "scan_code": 46, "name": "c", "time": 1709866894.2221832, "is_keypad": false}
