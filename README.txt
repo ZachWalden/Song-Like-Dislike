@@ -1,2 +1,2 @@
-Script for removing songs I dislike and moving songs I like into a 
-seperate folder.
+Script for seperating local media files, using keyboard input for 
+'like' and 'dislike' to easily create a local playlist on a button click.
