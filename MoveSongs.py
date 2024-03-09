@@ -1,5 +1,8 @@
 import keyboard, os, subprocess
 
+"""
+Modify the following paths & buttons to your environment & liking.
+"""
 path_to_playable_songs = os.path.abspath(r"C:\Users\zachw\Desktop\AxS Comp")
 path_to_liked_songs = os.path.abspath(r"C:\Users\zachw\Desktop\songs")
 path_to_disliked_songs = os.path.abspath(r"C:\Users\zachw\Desktop\disliked-songs")
@@ -8,8 +11,12 @@ like_key = 'f24'
 dislike_key = 'f23'
 replay_key = 'f22'
 
-i = 0
 
+
+##################################################################
+### Handling Like/Dislike, iterating through each song in dir. ###
+
+i = 0
 os.startfile(path_to_playable_songs + "\\" + song_list[i])
 
 while i != len(song_list):
